@@ -1,2 +1,2 @@
 # shadow
-no
+my public assets
